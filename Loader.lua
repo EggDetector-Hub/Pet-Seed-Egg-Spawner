@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/ZezpFZ5T/raw"))()
+local Spawner = loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
